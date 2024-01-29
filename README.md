@@ -12,8 +12,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annkkitaaa&layout=compact)](https://github.com/Annkkitaaa/github-readme-stats)
 
  ## Streak
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-Annkkittaaa&theme=theme-name)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Annkkitaaa&theme=theme-name)](https://git.io/streak-stats)
 
   ## Connect with Me
 
