@@ -24,6 +24,10 @@ Feel free to explore my repositories for more projects and contributions!
 
 [![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annkkitaaa)](https://github.com/Annkkitaaa/github-readme-stats)
 
+## Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/Annkkitaaa/github-readme-stats)
+
+
 ## Connect with Me
 
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
