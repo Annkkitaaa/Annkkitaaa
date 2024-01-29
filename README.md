@@ -1,4 +1,18 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      background-color: #800080;
+      color: #fff; 
+    }
+  </style>
+  <title>Your GitHub Profile Intro</title>
+</head>
+<body>
+
 # Hello, I'm Ankita! 👋
 
 Welcome to my GitHub profile introduction repository. Here you'll find some information about me and my projects.
@@ -49,3 +63,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</body>
+</html>
