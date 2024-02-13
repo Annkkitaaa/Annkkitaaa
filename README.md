@@ -16,7 +16,7 @@
 
   ## Connect with Me
 
-  - LinkedIn: [ID]([link-to-linkedin](https://www.linkedin.com/in/ankita-singh-5965391a5/))
+  - LinkedIn: (https://www.linkedin.com/in/ankita-singh-5965391a5/)
   - Email: ankitasingh15.102@gmail.com
 
   Feel free to connect and reach out! Let's collaborate and learn together. 😊
