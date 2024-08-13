@@ -1,6 +1,7 @@
 # Hello, I'm Ankita! 👋
 
- MSc Mathematics and Computing final year student at Indian Institute of Technology (ISM) Dhanbad. 
+Hello, I'm Ankita Singh, a recent MSc Mathematics and Computing graduate from the Indian Institute of Technology (ISM) Dhanbad. With a strong foundation in mathematics, I have developed a deep interest in the realms of data science, cryptography, and blockchain technology. I am currently exploring these exciting fields, eager to deepen my understanding and apply my analytical skills to real-world challenges. My journey has equipped me with proficiency in various tools and technologies, including Python, SQL, and cloud computing platforms. I am passionate about leveraging data to uncover insights and drive innovation. Let's connect and explore opportunities for collaboration in these dynamic domains!
+
 
 
   ## GitHub Stats
