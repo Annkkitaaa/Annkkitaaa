@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning about Solidity, Cryptography and Blockchain
 
-- 📝 I regularly write articles on [@aannkkiittaa](@aannkkiittaa)
-
 - 📫 How to reach me **ankitasingh15.102@gmail.com**
 
  ### Blogs posts
