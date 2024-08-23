@@ -7,10 +7,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Basics: What’s Really Inside a Block?](https://medium.com/@aannkkiittaa/blockchain-basics-whats-really-inside-a-block-6f71c0d9fe2a?source=rss-ed009393b89b------2)
 - [Ponzi Schemes and Pyramid Schemes: Unraveling the Web of Deceit](https://medium.com/@aannkkiittaa/ponzi-schemes-and-pyramid-schemes-unraveling-the-web-of-deceit-dc8e17c42ccd?source=rss-ed009393b89b------2)
 - [Understanding Deflation: The Different Faces of Falling Prices](https://medium.com/@aannkkiittaa/understanding-deflation-the-different-faces-of-falling-prices-452de41bdd7a?source=rss-ed009393b89b------2)
 - [Hedgey Finance Exploit](https://medium.com/@aannkkiittaa/hedgey-finance-exploit-a7af08f78874?source=rss-ed009393b89b------2)
-- [DePIN: Decentralized Physical Infrastructure Networks](https://medium.com/@aannkkiittaa/depin-decentralized-physical-infrastructure-networks-6bd9f89f2260?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
