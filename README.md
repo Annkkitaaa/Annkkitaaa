@@ -41,7 +41,7 @@
 
 
 
-  Feel free to connect and reach out! Let's collaborate and learn together. 😊
+  Feel free to connect and reach out! Let's collaborate and learn together.😊
 
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
