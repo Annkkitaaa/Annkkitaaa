@@ -7,10 +7,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Math Behind Bitcoin: Elliptic Curve Cryptography Explained](https://medium.com/@aannkkiittaa/the-math-behind-bitcoin-elliptic-curve-cryptography-explained-45522ccdaf3f?source=rss-ed009393b89b------2)
 - [Understanding Markov Chains: A Beginner’s Guide](https://medium.com/@aannkkiittaa/understanding-markov-chains-a-beginners-guide-8c13f88563d4?source=rss-ed009393b89b------2)
 - [Understanding Bitcoin Transactions: Inputs, Outputs, and the Coinbase Transaction](https://medium.com/@aannkkiittaa/understanding-bitcoin-transactions-inputs-outputs-and-the-coinbase-transaction-a7e088aa850b?source=rss-ed009393b89b------2)
 - [Blockchain Basics: What’s Really Inside a Block?](https://medium.com/@aannkkiittaa/blockchain-basics-whats-really-inside-a-block-6f71c0d9fe2a?source=rss-ed009393b89b------2)
-- [Ponzi Schemes and Pyramid Schemes: Unraveling the Web of Deceit](https://medium.com/@aannkkiittaa/ponzi-schemes-and-pyramid-schemes-unraveling-the-web-of-deceit-dc8e17c42ccd?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
