@@ -7,10 +7,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The DAO Incident: A Simple Explanation](https://medium.com/@aannkkiittaa/the-dao-incident-a-simple-explanation-5d7b740ea211?source=rss-ed009393b89b------2)
 - [Symmetric vs. Asymmetric Cryptography](https://medium.com/@aannkkiittaa/symmetric-vs-asymmetric-cryptography-0d4f0259cffc?source=rss-ed009393b89b------2)
 - [Understanding SPV: Simplified Payment Verification](https://medium.com/@aannkkiittaa/understanding-spv-simplified-payment-verification-84f5df00c1bb?source=rss-ed009393b89b------2)
 - [The Math Behind Bitcoin: Elliptic Curve Cryptography Explained](https://medium.com/@aannkkiittaa/the-math-behind-bitcoin-elliptic-curve-cryptography-explained-45522ccdaf3f?source=rss-ed009393b89b------2)
-- [Understanding Markov Chains: A Beginner’s Guide](https://medium.com/@aannkkiittaa/understanding-markov-chains-a-beginners-guide-8c13f88563d4?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
