@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ankitasingh15.102@gmail.com**
 
- ## Blogs posts
+ ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Diffie-Hellman Protocol](https://medium.com/@aannkkiittaa/diffie-hellman-protocol-1d284f11901e?source=rss-ed009393b89b------2)
 - [Quantum Cryptography: The Quantum Leap in Secure Communication](https://medium.com/@aannkkiittaa/quantum-cryptography-the-quantum-leap-in-secure-communication-714cb3de84fd?source=rss-ed009393b89b------2)
@@ -21,11 +21,11 @@
 <a href="https://medium.com/@aannkkiittaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aannkkiittaa" height="30" width="40" /></a>
 </p>
 
-  ## Most Used Languages
+  ### Most Used Languages
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annkkitaaa&layout=compact)](https://github.com/Annkkitaaa/github-readme-stats)
 
- ## Streak
+ ### Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Annkkitaaa&theme=nightowl)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
