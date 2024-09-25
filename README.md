@@ -21,11 +21,6 @@
 <a href="https://medium.com/@aannkkiittaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aannkkiittaa" height="30" width="40" /></a>
 </p>
 
-
-  ## GitHub Stats
-
-  [![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Annkkitaaa)](https://github.com/Annkkitaaa/github-readme-stats)
-
   ## Most Used Languages
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annkkitaaa&layout=compact)](https://github.com/Annkkitaaa/github-readme-stats)
