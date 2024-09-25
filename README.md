@@ -5,6 +5,11 @@
 
 - 📫 How to reach me **ankitasingh15.102@gmail.com**
 
+### Experience
+- Worked as a **Data Science Intern** at **[Infinite Analytics](https://infiniteanalytics.com/)**. Developed a Q-learning-based campaign optimization model to improve marketing strategies. Analyzed campaign metadata, extracting insights to boost engagement and targeting.
+- Worked as a **Research Intern** at **[IIT (ISM) Dhanbad](https://mnc.iitism.ac.in/)**. Applied Graph Neural Networks (GNN) to analyze a dataset of yoga images, identifying joint points as nodes in the network.
+
+
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
