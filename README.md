@@ -12,8 +12,10 @@
 ### Projects
 - **[Time Series Cryptanalysis Using LSTM Networks](https://github.com/Annkkitaaa/Time-Series-Cryptanalysis-Using-LSTM-Networks)**: Developed a model utilizing LSTM networks to analyze time series data for cryptographic applications, enhancing security analysis.
 - **[Paillier Homomorphic Encryption](https://github.com/Annkkitaaa/Paillier-Homomorphic-Encryption)**: Implemented the Paillier homomorphic encryption scheme to demonstrate secure data processing capabilities, focusing on privacy-preserving computations.
+- **[Ingredient Weight Estimation Model](https://github.com/Annkkitaaa/Ingredient-Weight-Estimation-Model)**: A machine learning model that estimates weight percentages of various ingredients in food items using NLP and Random Forest regression.
 - **[Sign Language Detector](https://github.com/Annkkitaaa/sign-language-detector)**: Created a sign language detection system using computer vision techniques, aiming to bridge communication gaps for the hearing impaired.
 - **[Uber Data Analytics Project](https://github.com/Annkkitaaa/Uber-Data-Analytics-Project)**: Conducted a comprehensive data analysis of Uber's ride-sharing data to extract insights and visualize trends in user behavior and service efficiency.
+  
 
 
 
