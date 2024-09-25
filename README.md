@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ankitasingh15.102@gmail.com**
 
- ### Blogs posts
+ ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Diffie-Hellman Protocol](https://medium.com/@aannkkiittaa/diffie-hellman-protocol-1d284f11901e?source=rss-ed009393b89b------2)
 - [Quantum Cryptography: The Quantum Leap in Secure Communication](https://medium.com/@aannkkiittaa/quantum-cryptography-the-quantum-leap-in-secure-communication-714cb3de84fd?source=rss-ed009393b89b------2)
