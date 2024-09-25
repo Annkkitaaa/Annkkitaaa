@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Solidity, Cryptography and Blockchain.
 
 - 📫 How to reach me **ankitasingh15.102@gmail.com**
-- <a href="https://ankitasingh.vercel.app/" target="blank">Website/ankita-singh</a>
+-
 
 
  ### Blogs posts
@@ -16,12 +16,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankita Singh LinkedIn" height="30" width="40" /></a>
-<a href="https://kaggle.com/ankittaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Ankita Singh Kaggle" height="30" width="40" /></a>
-<a href="https://instagram.com/_.ankitasingh._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ankita Singh Instagram" height="30" width="40" /></a>
-<a href="https://medium.com/@aannkkiittaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aannkkiittaa" height="30" width="40" /></a>
-</p>
+<a href="https://ankitasingh.vercel.app/" target="blank">Website/ankita-singh</a>• 
+<a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="blank">LinkedIn/ankita-singh</a> • 
+<a href="https://instagram.com/_.ankitasingh._/" target="blank">Instagram/_.ankitasingh._</a> • 
+<a href="https://medium.com/@aannkkiittaa" target="blank">Medium/@aannkkiittaa</a> • 
+<a href="https://x.com/ankiittaaa" target="blank">Twitter/ankiittaaa</a> 
+
+
+
 
 
   ### Most Used Languages
