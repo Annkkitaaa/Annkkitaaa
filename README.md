@@ -21,10 +21,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of Decentralized GPU Networks: Powering the Future of Distributed Computing](https://medium.com/@aannkkiittaa/the-rise-of-decentralized-gpu-networks-powering-the-future-of-distributed-computing-aa40cc44c8ec?source=rss-ed009393b89b------2)
 - [DePIN: Decentralized Physical Infrastructure Networks](https://medium.com/@aannkkiittaa/depin-decentralized-physical-infrastructure-networks-1f7f1fb9ae87?source=rss-ed009393b89b------2)
 - [Diffie-Hellman Protocol](https://medium.com/@aannkkiittaa/diffie-hellman-protocol-1d284f11901e?source=rss-ed009393b89b------2)
 - [Quantum Cryptography: The Quantum Leap in Secure Communication](https://medium.com/@aannkkiittaa/quantum-cryptography-the-quantum-leap-in-secure-communication-714cb3de84fd?source=rss-ed009393b89b------2)
-- [The DAO Incident: A Simple Explanation](https://medium.com/@aannkkiittaa/the-dao-incident-a-simple-explanation-5d7b740ea211?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
