@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ankita Singh</h1>
-<h3 align="center">Unlocking Data Science Potential with a Passion for Cryptography and Blockchain. Technology</h3>
+<h3 align="center">Unlocking Data Science Potential with a Passion for Cryptography and Blockchain Technology</h3>
 
 - 🌱 I’m currently learning about Solidity, Cryptography and Blockchain 
 
