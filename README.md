@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Ankita Singh</h1>
 <h3 align="center">Unlocking Data Science Potential with a Passion for Cryptography and Blockchain Technology</h3>
 
-- 🌱 I’m currently learning about Solidity, Cryptography and Blockchain
+- 🌱 I’m currently learning about Solidity, Cryptography and Blockchain.
 
 - 📫 How to reach me **ankitasingh15.102@gmail.com**
 
 ### Experience
+- Working as a **Data Scientist** at **[Networth Corp](https://www.networth-corp.com/)**.
 - Worked as a **Data Science Intern** at **[Infinite Analytics](https://infiniteanalytics.com/)**. Developed a Q-learning-based campaign optimization model to improve marketing strategies. Analyzed campaign metadata, extracting insights to boost engagement and targeting.
 - Worked as a **Research Intern** at **[IIT (ISM) Dhanbad](https://mnc.iitism.ac.in/)**. Applied Graph Neural Networks (GNN) to analyze a dataset of yoga images, identifying joint points as nodes in the network.
 
