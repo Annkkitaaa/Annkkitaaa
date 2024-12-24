@@ -11,6 +11,7 @@
 - Worked as a **Research Intern** at **[IIT (ISM) Dhanbad](https://mnc.iitism.ac.in/)**. Applied Graph Neural Networks (GNN) to analyze a dataset of yoga images, identifying joint points as nodes in the network.
 
 ### Projects
+- **[DeFi Risk Analysis and Prediction System for Ethereum](https://github.com/Annkkitaaa/DeFi-Risk-Analysis-and-Prediction-System-for-Ethereum)** :The DeFi Risk Analysis and Prediction System is a web application designed to collect, process, and analyze data from decentralized finance (DeFi) protocols and the Ethereum blockchain. The application leverages machine learning techniques to assess the risk levels of various DeFi assets and provide predictions based on user inputs.
 - **[Time Series Cryptanalysis Using LSTM Networks](https://github.com/Annkkitaaa/Time-Series-Cryptanalysis-Using-LSTM-Networks)**: Developed a model utilizing LSTM networks to analyze time series data for cryptographic applications, enhancing security analysis.
 - **[Paillier Homomorphic Encryption](https://github.com/Annkkitaaa/Paillier-Homomorphic-Encryption)**: Implemented the Paillier homomorphic encryption scheme to demonstrate secure data processing capabilities, focusing on privacy-preserving computations.
 - **[Ingredient Weight Estimation Model](https://github.com/Annkkitaaa/Ingredient-Weight-Estimation-Model)**: A machine learning model that estimates weight percentages of various ingredients in food items using NLP and Random Forest regression.
