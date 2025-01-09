@@ -23,10 +23,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Paillier Homomorphic Encryption: A Comprehensive Guide](https://medium.com/@aannkkiittaa/paillier-homomorphic-encryption-a-comprehensive-guide-ce7fe2c245bd?source=rss-ed009393b89b------2)
 - [Zero-Knowledge Machine Learning: Bridging Privacy and Verification in AI Systems](https://medium.com/@aannkkiittaa/zero-knowledge-machine-learning-bridging-privacy-and-verification-in-ai-systems-e8cb8bc5f610?source=rss-ed009393b89b------2)
 - [Building an Intelligent E-commerce Chatbot with RAG Technology](https://medium.com/@aannkkiittaa/building-an-intelligent-e-commerce-chatbot-with-rag-technology-f3c1e07531bf?source=rss-ed009393b89b------2)
 - [Zero-Knowledge Proofs &lpar;ZKP&rpar; and Their Crucial Role in Data Privacy](https://medium.com/@aannkkiittaa/zero-knowledge-proofs-zkp-and-their-crucial-role-in-data-privacy-16de8bfe3363?source=rss-ed009393b89b------2)
-- [The Rise of Decentralized GPU Networks: Powering the Future of Distributed Computing](https://medium.com/@aannkkiittaa/the-rise-of-decentralized-gpu-networks-powering-the-future-of-distributed-computing-aa40cc44c8ec?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
