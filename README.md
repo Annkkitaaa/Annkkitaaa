@@ -33,7 +33,7 @@
 <a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="blank">LinkedIn/ankita-singh</a> • 
 <a href="https://instagram.com/_.ankitasingh._/" target="blank">Instagram/_.ankitasingh._</a> • 
 <a href="https://medium.com/@aannkkiittaa" target="blank">Medium/@aannkkiittaa</a> • 
-<a href="https://x.com/ankiittaaa" target="blank">Twitter/ankiittaaa</a> 
+<a href="https://x.com/annkkitaaa" target="blank">Twitter/ankiittaaa</a> 
 
 
 
