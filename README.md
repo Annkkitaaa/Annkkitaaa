@@ -22,10 +22,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mathematical Examples of Cryptographic Systems](https://medium.com/@aannkkiittaa/mathematical-examples-of-cryptographic-systems-a9c26ab87318?source=rss-ed009393b89b------2)
 - [Introduction to Cryptography: What, Why, and How It Works.](https://medium.com/@aannkkiittaa/introduction-to-cryptography-what-why-and-how-it-works-664d9b878bb0?source=rss-ed009393b89b------2)
 - [Paillier Homomorphic Encryption: A Comprehensive Guide](https://medium.com/@aannkkiittaa/paillier-homomorphic-encryption-a-comprehensive-guide-ce7fe2c245bd?source=rss-ed009393b89b------2)
 - [Zero-Knowledge Machine Learning: Bridging Privacy and Verification in AI Systems](https://medium.com/@aannkkiittaa/zero-knowledge-machine-learning-bridging-privacy-and-verification-in-ai-systems-e8cb8bc5f610?source=rss-ed009393b89b------2)
-- [Building an Intelligent E-commerce Chatbot with RAG Technology](https://medium.com/@aannkkiittaa/building-an-intelligent-e-commerce-chatbot-with-rag-technology-f3c1e07531bf?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
