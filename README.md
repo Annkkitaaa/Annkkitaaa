@@ -22,7 +22,7 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Automated Market Makers: A Mathematical Deep Dive](https://medium.com/@aannkkiittaa/understanding-automated-market-makers-a-mathematical-deep-dive-4775c0687bb3?source=rss-ed009393b89b------2)
+- [Understanding Automated Market Makers](https://medium.com/@aannkkiittaa/understanding-automated-market-makers-28bb6e494236?source=rss-ed009393b89b------2)
 - [Mathematical Examples of Cryptographic Systems](https://medium.com/@aannkkiittaa/mathematical-examples-of-cryptographic-systems-a9c26ab87318?source=rss-ed009393b89b------2)
 - [Introduction to Cryptography: What, Why, and How It Works.](https://medium.com/@aannkkiittaa/introduction-to-cryptography-what-why-and-how-it-works-664d9b878bb0?source=rss-ed009393b89b------2)
 - [Paillier Homomorphic Encryption: A Comprehensive Guide](https://medium.com/@aannkkiittaa/paillier-homomorphic-encryption-a-comprehensive-guide-ce7fe2c245bd?source=rss-ed009393b89b------2)
