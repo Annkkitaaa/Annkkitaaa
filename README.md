@@ -23,7 +23,7 @@
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Understanding FRI Polynomial Commitments Scheme](https://medium.com/@aannkkiittaa/understanding-fri-polynomial-commitments-scheme-7391da74c9d9?source=rss-ed009393b89b------2)
-- [Understanding Automated Market Makers](https://medium.com/@aannkkiittaa/understanding-automated-market-makers-28bb6e494236?source=rss-ed009393b89b------2)
+- [Understanding Automated Market Makers](https://medium.com/coinmonks/understanding-automated-market-makers-28bb6e494236?source=rss-ed009393b89b------2)
 - [Paillier Homomorphic Encryption: A Comprehensive Guide](https://medium.com/@aannkkiittaa/paillier-homomorphic-encryption-a-comprehensive-guide-ce7fe2c245bd?source=rss-ed009393b89b------2)
 - [Zero-Knowledge Machine Learning: Bridging Privacy and Verification in AI Systems](https://medium.com/@aannkkiittaa/zero-knowledge-machine-learning-bridging-privacy-and-verification-in-ai-systems-e8cb8bc5f610?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
