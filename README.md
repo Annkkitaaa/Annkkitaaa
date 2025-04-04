@@ -22,10 +22,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The DAO Hack &lpar;2016&rpar;: A Complete Analysis](https://medium.com/@aannkkiittaa/the-dao-hack-2016-a-complete-analysis-eaa212454074?source=rss-ed009393b89b------2)
 - [The Gambler’s Ruin Problem](https://medium.com/@aannkkiittaa/the-gamblers-ruin-problem-089206b1d4ec?source=rss-ed009393b89b------2)
 - [Understanding FRI Polynomial Commitments Scheme](https://medium.com/@aannkkiittaa/understanding-fri-polynomial-commitments-scheme-7391da74c9d9?source=rss-ed009393b89b------2)
 - [Understanding Automated Market Makers](https://medium.com/coinmonks/understanding-automated-market-makers-28bb6e494236?source=rss-ed009393b89b------2)
-- [Paillier Homomorphic Encryption: A Comprehensive Guide](https://medium.com/@aannkkiittaa/paillier-homomorphic-encryption-a-comprehensive-guide-ce7fe2c245bd?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
