@@ -25,7 +25,7 @@
 - [Real-time Blockchain Data Indexing: Challenges and Solutions](https://medium.com/@aannkkiittaa/real-time-blockchain-data-indexing-challenges-and-solutions-fcb1f8aa3911?source=rss-ed009393b89b------2)
 - [KZG &lpar;Kate-Zaverucha-Goldberg&rpar; Commitments](https://medium.com/@aannkkiittaa/kzg-kate-zaverucha-goldberg-commitments-2e08b4fa3b4b?source=rss-ed009393b89b------2)
 - [SEO Optimization: Strategies for Maximum Visibility in 2025](https://medium.com/@aannkkiittaa/seo-optimization-strategies-for-maximum-visibility-in-2025-5a023310a31a?source=rss-ed009393b89b------2)
-- [Understanding Hash Functions &amp; Their Role in Cryptography](https://medium.com/@aannkkiittaa/understanding-hash-functions-their-role-in-cryptography-62f36927a96e?source=rss-ed009393b89b------2)
+- [Understanding Hash Functions &amp; Their Role in Cryptography](https://medium.com/coinmonks/understanding-hash-functions-their-role-in-cryptography-62f36927a96e?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
