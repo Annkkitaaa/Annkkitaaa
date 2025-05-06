@@ -22,10 +22,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Schnorr Protocol: The Foundation of ZK Proofs](https://medium.com/@aannkkiittaa/schnorr-protocol-the-foundation-of-zk-proofs-98be2fbbe54a?source=rss-ed009393b89b------2)
 - [Understanding RedShift: Transparent SNARKs from List Polynomial Commitments](https://medium.com/@aannkkiittaa/understanding-redshift-transparent-snarks-from-list-polynomial-commitments-098b5e50eb7f?source=rss-ed009393b89b------2)
 - [How Password Hashing Works: PBKDF2, Argon2 &amp; More](https://medium.com/@aannkkiittaa/how-password-hashing-works-pbkdf2-argon2-more-95cee0cd7c4a?source=rss-ed009393b89b------2)
 - [Real-time Blockchain Data Indexing: Challenges and Solutions](https://medium.com/@aannkkiittaa/real-time-blockchain-data-indexing-challenges-and-solutions-fcb1f8aa3911?source=rss-ed009393b89b------2)
-- [KZG &lpar;Kate-Zaverucha-Goldberg&rpar; Commitments](https://medium.com/@aannkkiittaa/kzg-kate-zaverucha-goldberg-commitments-2e08b4fa3b4b?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
