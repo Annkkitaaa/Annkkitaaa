@@ -30,14 +30,8 @@
 - [Real-time Blockchain Data Indexing: Challenges and Solutions](https://medium.com/@aannkkiittaa/real-time-blockchain-data-indexing-challenges-and-solutions-fcb1f8aa3911?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://ankitasingh.vercel.app/" target="blank">Website/ankita-singh</a>• 
-<a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="blank">LinkedIn/ankita-singh</a> • 
-<a href="https://instagram.com/_.ankitasingh._/" target="blank">Instagram/_.ankitasingh._</a> • 
-<a href="https://medium.com/@aannkkiittaa" target="blank">Medium/@aannkkiittaa</a> • 
-<a href="https://x.com/annkkitaaa" target="blank">Twitter/annkkitaaa</a> 
-
-
+💫 Connect with me
+<p align="left"> <a href="https://ankitasingh.vercel.app/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/domain.png" alt="Website" title="Portfolio" /> </a>&nbsp;&nbsp; <a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a>&nbsp;&nbsp; <a href="https://instagram.com/_.ankitasingh._/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" title="Instagram" /> </a>&nbsp;&nbsp; <a href="https://medium.com/@aannkkiittaa" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/medium-logo.png" alt="Medium" title="Medium" /> </a>&nbsp;&nbsp; <a href="https://x.com/annkkitaaa" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/twitterx.png" alt="Twitter/X" title="Twitter/X" /> </a> </p>
 
 
 
