@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Ankita Singh</h1>
 <h3 align="center">Unlocking Data Science Potential with a Passion for Cryptography and Blockchain Technology</h3>
 
-- 🌱 I’m currently learning about Solidity, Cryptography and Blockchain.
-- Looking for opportunity in Cryptography Research.
+- Currently exploring Solidity, Cryptography, and Blockchain technologies.
 
-- 📫 How to reach me **ankitasingh15.102@gmail.com**
+🔍 Actively seeking opportunities in Cryptography Research.
+
+📫 Feel free to reach out at: ankitasingh15.102@gmail.com
 
 ### Experience
 - Working as a **Data Scientist** at **[Networth Corp](https://www.networth-corp.com/)**. Developing a topic modeling pipeline, designing an evaluation framework, and building a robust chunking module for efficient text preprocessing. Also developing a Python chunking module for sentiment-aware processing within token limits and building an evaluation framework to assess model outputs on key metrics.
