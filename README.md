@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ankita Singh</h1>
 <h3 align="center">Unlocking Data Science Potential with a Passion for Cryptography and Blockchain Technology</h3>
 
-- Currently exploring Solidity, Cryptography, and Blockchain technologies.
+- Currently exploring Solidity, Cryptography, and Blockchain technologies
 
 - Actively seeking opportunities in Cryptography Research.
 
