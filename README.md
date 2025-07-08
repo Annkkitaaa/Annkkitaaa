@@ -3,7 +3,7 @@
 
 - Currently exploring Solidity, Cryptography, and Blockchain technologies
 
-- Actively seeking opportunities as Cryptography Researcher and Technical Writer. 
+- Actively seeking opportunities as Cryptography Researcher and Technical Writer
 
 - Feel free to reach out at: ankitasingh15.102@gmail.com
 
