@@ -24,10 +24,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [WazirX Multisig Wallet Hack Post-Mortem Report](https://medium.com/@aannkkiittaa/wazirx-multisig-wallet-hack-post-mortem-report-a15cb887c1dc?source=rss-ed009393b89b------2)
 - [The Complete Guide to Status Page Management: From Setup to Success](https://medium.com/@aannkkiittaa/the-complete-guide-to-status-page-management-from-setup-to-success-e578bb9271dc?source=rss-ed009393b89b------2)
 - [Schnorr Protocol: The Foundation of ZK Proofs](https://medium.com/@aannkkiittaa/schnorr-protocol-the-foundation-of-zk-proofs-98be2fbbe54a?source=rss-ed009393b89b------2)
 - [Understanding RedShift: Transparent SNARKs from List Polynomial Commitments](https://medium.com/@aannkkiittaa/understanding-redshift-transparent-snarks-from-list-polynomial-commitments-098b5e50eb7f?source=rss-ed009393b89b------2)
-- [How Password Hashing Works: PBKDF2, Argon2 &amp; More](https://medium.com/@aannkkiittaa/how-password-hashing-works-pbkdf2-argon2-more-95cee0cd7c4a?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 💫 Connect with me
