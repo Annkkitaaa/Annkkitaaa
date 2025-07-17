@@ -5,7 +5,7 @@
 
 - Actively seeking opportunities as Cryptography Researcher and Technical Writer.
 
-- Feel free to reach out at: ankitasingh15.102@gmail.com
+- Feel free to reach out at: ankitasingh15.102@gmail.com.
 
 ### Experience
 - Working as a **Data Scientist** at **[Networth Corp](https://www.networth-corp.com/)**. Developing a topic modeling pipeline, designing an evaluation framework, and building a robust chunking module for efficient text preprocessing.
