@@ -3,7 +3,7 @@
 
 - Currently exploring Solidity, Cryptography, and Blockchain technologies.
 
-- Actively seeking opportunities in web3.
+- Actively seeking opportunities in web3
 
 - Feel free to reach out at: ankitasingh15.102@gmail.com.
 
