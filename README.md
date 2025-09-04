@@ -1,5 +1,11 @@
-<h1 align="center">Hi, I'm Ankita Singh</h1>
-<h3 align="center">Unlocking Data Science Potential with a Passion for Cryptography and Blockchain Technology</h3>
+<div align="center">
+<!-- Custom Web3 Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Ankita%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Unlocking%20Data%20Science%20Potential%20with%20Blockchain%20Innovation&descAlignY=55&descSize=18" />
+</div>
+<div align="center">
+<!-- Typing Animation -->
+
+</div>
 
 - Currently exploring Solidity, Cryptography, and Blockchain technologies
 - Feel free to reach out at: ankitasingh15.102@gmail.com.
@@ -31,7 +37,6 @@
 <p align="left"> <a href="https://ankitasingh.vercel.app/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/domain.png" alt="Website" title="Portfolio" /> </a>&nbsp;&nbsp; <a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a>&nbsp;&nbsp; <a href="https://instagram.com/_.ankitasingh._/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" title="Instagram" /> </a>&nbsp;&nbsp; <a href="https://medium.com/@aannkkiittaa" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/medium-logo.png" alt="Medium" title="Medium" /> </a>&nbsp;&nbsp; <a href="https://x.com/annkkitaaa" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/twitterx.png" alt="Twitter/X" title="Twitter/X" /> </a> </p>
 
 
-
   ### Most Used Languages
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Annkkitaaa&layout=compact)](https://github.com/Annkkitaaa/github-readme-stats)
@@ -50,4 +55,9 @@
   Feel free to connect and reach out! Let's collaborate and learn together!
 
   ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+  <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&animation=fadeIn" />
+
+</div>
 
