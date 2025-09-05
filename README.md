@@ -7,8 +7,14 @@
 
 </div>
 
-- Currently exploring Solidity, Cryptography, and Blockchain technologies
-- Feel free to reach out at: ankitasingh15.102@gmail.com.
+<div style="text-align: center; max-width: 600px; margin: auto;">
+  <p>- Currently exploring Solidity, Cryptography, and Blockchain technologies</p>
+  <p>- Feel free to reach out at: <a href="mailto:ankitasingh15.102@gmail.com">ankitasingh15.102@gmail.com</a></p>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300" style="margin-top: 20px;">
+</div>
+
+
 
 ### Experience
 - Working as a **Data Scientist** at **[Networth Corp](https://www.networth-corp.com/)**. Developing a topic modeling pipeline, designing an evaluation framework, and building a robust chunking module for efficient text preprocessing.
