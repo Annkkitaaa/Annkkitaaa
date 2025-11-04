@@ -14,7 +14,7 @@
 
 
 
-- Currently exploring Solidity, Cryptography, and Blockchain technologies.
+- Currently exploring Solidity, Cryptography, and Blockchain technologies
 - Feel free to reach out at: <a href="mailto:ankitasingh15.102@gmail.com">ankitasingh15.102@gmail.com</a>
 
 ### Experience
