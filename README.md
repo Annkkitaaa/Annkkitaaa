@@ -41,7 +41,26 @@
 <!-- BLOG-POST-LIST:END -->
 
 💫 Connect with me
-<p align="left"> <a href="https://ankitasingh.vercel.app/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/domain.png" alt="Website" title="Portfolio" /> </a>&nbsp;&nbsp; <a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn" title="LinkedIn" /> </a>&nbsp;&nbsp; <a href="https://instagram.com/_.ankitasingh._/" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" title="Instagram" /> </a>&nbsp;&nbsp; <a href="https://medium.com/@aannkkiittaa" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/medium-logo.png" alt="Medium" title="Medium" /> </a>&nbsp;&nbsp; <a href="https://x.com/annkkitaaa" target="_blank"> <img src="https://img.icons8.com/ios-filled/40/000000/twitterx.png" alt="Twitter/X" title="Twitter/X" /> </a> </p>
+<p align="left">
+  <a href="https://ankitasingh.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/000000/domain.png" alt="Website" title="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn" title="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/_.ankitasingh._/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" title="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@aannkkiittaa" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/000000/medium-logo.png" alt="Medium" title="Medium" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/annkkitaaa" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/000000/twitterx.png" alt="Twitter/X" title="Twitter/X" />
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/annkkitaaa" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/40/229ED9/telegram-app.png" alt="Telegram" title="Telegram" />
+  </a>
+</p>
 
 
   ### Most Used Languages
