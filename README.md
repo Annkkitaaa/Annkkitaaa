@@ -16,6 +16,8 @@
 
 - Currently exploring Solidity, Cryptography, and Blockchain technologies
 - Feel free to reach out at: <a href="mailto:ankitasingh15.102@gmail.com">ankitasingh15.102@gmail.com</a>
+- Want to chat? Book a slot here: <a href="https://calendly.com/ankitasingh15-102/30min">Calendly</a>
+
 
 ### Experience
 - Working as a **Data Scientist** at **[Networth Corp](https://www.networth-corp.com/)**. Developing a topic modeling pipeline, designing an evaluation framework, and building a robust chunking module for efficient text preprocessing.
