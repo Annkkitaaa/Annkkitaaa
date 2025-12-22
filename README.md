@@ -36,10 +36,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Web3 Exists Because of Cryptography &lpar;Explained Like I’m 12&rpar;](https://medium.com/@aannkkiittaa/why-web3-exists-because-of-cryptography-explained-like-im-12-21912c5551a6?source=rss-ed009393b89b------2)
 - [Venus Protocol wUSDM Donation Attack Analysis](https://medium.com/@aannkkiittaa/venus-protocol-wusdm-donation-attack-analysis-eb1b80a627bb?source=rss-ed009393b89b------2)
 - [WazirX Multisig Wallet Hack Post-Mortem Report](https://medium.com/@aannkkiittaa/wazirx-multisig-wallet-hack-post-mortem-report-a15cb887c1dc?source=rss-ed009393b89b------2)
 - [The Complete Guide to Status Page Management: From Setup to Success](https://medium.com/@aannkkiittaa/the-complete-guide-to-status-page-management-from-setup-to-success-e578bb9271dc?source=rss-ed009393b89b------2)
-- [Schnorr Protocol: The Foundation of ZK Proofs](https://medium.com/@aannkkiittaa/schnorr-protocol-the-foundation-of-zk-proofs-98be2fbbe54a?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 💫 Connect with me
