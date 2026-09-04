@@ -50,7 +50,7 @@
   <a href="https://linkedin.com/in/ankita-singh-5965391a5/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" alt="LinkedIn" title="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/_.ankitasingh._/" target="_blank">
+  <a href="https://instagram.com/annkkittaa/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/40/E4405F/instagram-new.png" alt="Instagram" title="Instagram" />
   </a>&nbsp;&nbsp;
   <a href="https://medium.com/@aannkkiittaa" target="_blank">
