@@ -36,10 +36,10 @@
 
  ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Groth16 Explained: The Math Behind the World’s Most Deployed zk-SNARK](https://medium.com/@aannkkiittaa/groth16-explained-the-math-behind-the-worlds-most-deployed-zk-snark-dfe51ceca5c0?source=rss-ed009393b89b------2)
 - [Modular Arithmetic: The Clock That Powers All of Cryptography](https://medium.com/@aannkkiittaa/modular-arithmetic-the-clock-that-powers-all-of-cryptography-5ac2dc604ab4?source=rss-ed009393b89b------2)
 - [Why Agentic AI Will Rewrite the App Development Playbook-And Why I’m Here for It](https://medium.com/@aannkkiittaa/why-agentic-ai-will-rewrite-the-app-development-playbook-and-why-im-here-for-it-e60f194732a8?source=rss-ed009393b89b------2)
 - [Why Web3 Exists Because of Cryptography &lpar;Explained Like I’m 12&rpar;](https://medium.com/@aannkkiittaa/why-web3-exists-because-of-cryptography-explained-like-im-12-21912c5551a6?source=rss-ed009393b89b------2)
-- [Venus Protocol wUSDM Donation Attack Analysis](https://medium.com/@aannkkiittaa/venus-protocol-wusdm-donation-attack-analysis-eb1b80a627bb?source=rss-ed009393b89b------2)
 <!-- BLOG-POST-LIST:END -->
 
 💫 Connect with me
