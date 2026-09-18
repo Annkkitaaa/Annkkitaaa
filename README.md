@@ -2,14 +2,6 @@
 <!-- Custom Web3 Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Ankita%20Singh&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Unlocking%20Data%20Science%20Potential%20with%20Blockchain%20Innovation&descAlignY=55&descSize=18" />
 </div>
-<div align="center">
-<!-- Typing Animation -->
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
-</p>
 
 ### Summary
 Security researcher and data scientist working across zero-knowledge cryptography, smart contract security, and applied ML. Hands-on experience auditing on-chain verifiers and DeFi protocols, reproducing real CVEs with working exploits, and building production data/ML systems (RAG pipelines, synthetic data generation, automated decisioning). Published research on Zcash protocol design, formal verification, and SNARK/STARK proof systems.
