@@ -11,10 +11,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
 </p>
 
+### Summary
+Security researcher and data scientist working across zero-knowledge cryptography, smart contract security, and applied ML. Hands-on experience auditing on-chain verifiers and DeFi protocols, reproducing real CVEs with working exploits, and building production data/ML systems (RAG pipelines, synthetic data generation, automated decisioning). Published research on Zcash protocol design, formal verification, and SNARK/STARK proof systems.
 
-
-
-- Currently exploring Solidity, Cryptography, and Blockchain technologies
 - Feel free to reach out at: <a href="mailto:ankitasingh15.102@gmail.com">ankitasingh15.102@gmail.com</a>
 - Want to chat? Book a slot here: <a href="https://calendly.com/ankitasingh15-102/30min">Calendly</a>
 
@@ -25,16 +24,19 @@
 - Worked as a **Research Intern** at **[IIT (ISM) Dhanbad](https://mnc.iitism.ac.in/)**. Applied Graph Neural Networks (GNN) to analyze a dataset of yoga images, identifying joint points as nodes in the network
 
 ### Projects
-- **[DeFi Risk Analysis and Prediction System for Ethereum](https://github.com/Annkkitaaa/DeFi-Risk-Analysis-and-Prediction-System-for-Ethereum)** :The DeFi Risk Analysis and Prediction System is a web application designed to collect, process, and analyze data from decentralized finance (DeFi) protocols and the Ethereum blockchain. The application leverages machine learning techniques to assess the risk levels of various DeFi assets and provide predictions based on user inputs.
-- **[Cryptanalysis Using LSTM Networks](https://github.com/Annkkitaaa/Cryptanalysis-Using-LSTM-Networks)**: Developed a model utilizing LSTM networks to analyze time series data for cryptographic applications, enhancing security analysis.
-- **[Paillier Homomorphic Encryption](https://github.com/Annkkitaaa/Paillier-Homomorphic-Encryption)**: Implemented the Paillier homomorphic encryption scheme to demonstrate secure data processing capabilities, focusing on privacy-preserving computations.
-- **[Ingredient Weight Estimation Model](https://github.com/Annkkitaaa/Ingredient-Weight-Estimation-Model)**: A machine learning model that estimates weight percentages of various ingredients in food items using NLP and Random Forest regression.
-- **[Sign Language Detector](https://github.com/Annkkitaaa/sign-language-detector)**: Created a sign language detection system using computer vision techniques, aiming to bridge communication gaps for the hearing impaired.
-  
-
-
+- **[DefiLlama-Adapters: TVL Accuracy Fix (Merged)](https://github.com/DefiLlama/DefiLlama-Adapters/pull/21058)**: Found and fixed a missing lending-vault integration causing DefiLlama to under-report a live protocol's TVL; merged into DefiLlama's production adapter repo.
+- **[ZKLint: Automated zkVM Circuit Vulnerability Scanner](https://github.com/Annkkitaaa/ZKLint)**: Static analysis engine detecting under-constrained vulnerabilities in zero-knowledge circuits; reproduced real CVEs (CVE-2025-52484, zkWasm Load8) with working exploits.
+- **[1inch Protocol Product Analytics](https://github.com/Annkkitaaa/1inch-product-analytics)**: On-chain analytics pipeline analyzing $18.4B in DEX volume across 2.37M users, benchmarking market share against ParaSwap, 0x, and CowSwap.
+- **[Ecommerce RAG Chatbot](https://github.com/Annkkitaaa/Ecommerce-RAG-Chatbot)**: Production-style Retrieval-Augmented Generation system grounding LLM responses in real product and order data for accurate, traceable answers.
+- **[NoirSec: Noir Circuit Vulnerability Test Suite](https://github.com/Annkkitaaa/noir-sec)**: First open-source exploit corpus for the Noir zkDSL, 22 vulnerable/patched circuit pairs and 3 reproduced compiler bugs.
 
  ### Blogs posts
+
+ **Zcash Research (ZecHub):**
+- [Zcash Foundations Series](https://zechub.wiki/research/zcash-foundations-series)
+- [Zcash Formal Verification Series](https://zechub.wiki/research/zcash-formal-verification-series)
+
+**Medium:**
 <!-- BLOG-POST-LIST:START -->
 - [Groth16 Explained: The Math Behind the World’s Most Deployed zk-SNARK](https://medium.com/@aannkkiittaa/groth16-explained-the-math-behind-the-worlds-most-deployed-zk-snark-dfe51ceca5c0?source=rss-ed009393b89b------2)
 - [Modular Arithmetic: The Clock That Powers All of Cryptography](https://medium.com/@aannkkiittaa/modular-arithmetic-the-clock-that-powers-all-of-cryptography-5ac2dc604ab4?source=rss-ed009393b89b------2)
