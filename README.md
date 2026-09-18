@@ -4,7 +4,7 @@
 </div>
 
 ### Summary
-Security researcher and data scientist working across zero-knowledge cryptography, smart contract security, and applied ML. Hands-on experience auditing on-chain verifiers and DeFi protocols, reproducing real CVEs with working exploits, and building production data/ML systems (RAG pipelines, synthetic data generation, automated decisioning). Published research on Zcash protocol design, formal verification, and SNARK/STARK proof systems.
+Researcher and data scientist working across zero-knowledge cryptography, smart contract security, and applied ML. Hands-on experience auditing on-chain verifiers and DeFi protocols, reproducing real CVEs with working exploits, and building production data/ML systems (RAG pipelines, synthetic data generation, automated decisioning). Published research on Zcash protocol design, formal verification, and SNARK/STARK proof systems.
 
 - Feel free to reach out at: <a href="mailto:ankitasingh15.102@gmail.com">ankitasingh15.102@gmail.com</a>
 - Want to chat? Book a slot here: <a href="https://calendly.com/ankitasingh15-102/30min">Calendly</a>
